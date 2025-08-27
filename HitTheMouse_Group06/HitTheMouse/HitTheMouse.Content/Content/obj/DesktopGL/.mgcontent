@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Backgrounds/background_about.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Backgrounds/background_credits.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Backgrounds/background_gameplay.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Backgrounds/background_howtoplay.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Backgrounds/background_leaderboard.jpg</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Backgrounds/background_menu.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Fonts/main_font.spritefont</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Music/background_music.mp3</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Music/click.mp3</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Music/hit.mp3</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Textures/buttons.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Textures/mouse_spritesheet.png</File>
+    <File>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Textures/sky.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

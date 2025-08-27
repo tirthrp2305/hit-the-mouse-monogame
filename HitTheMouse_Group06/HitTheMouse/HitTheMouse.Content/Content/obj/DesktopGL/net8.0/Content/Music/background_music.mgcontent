@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/Music/background_music.mp3</SourceFile>
+  <SourceTime>2024-12-08T17:42:15.4343659+05:30</SourceTime>
+  <DestFile>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/bin/DesktopGL/Content/Music/background_music.xnb</DestFile>
+  <DestTime>2024-12-08T17:44:51.5450167+05:30</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T22:35:56+05:30</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T22:35:56+05:30</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Assignments/MonoGames/Jenil/HitTheMouse/HitTheMouse.Content/Content/bin/DesktopGL/Content/Music/background_music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

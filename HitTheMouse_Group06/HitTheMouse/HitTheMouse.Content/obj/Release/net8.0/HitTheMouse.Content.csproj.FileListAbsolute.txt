@@ -1,0 +1,12 @@
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\bin\Release\net8.0\HitTheMouse.Content.deps.json
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\bin\Release\net8.0\HitTheMouse.Content.dll
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\bin\Release\net8.0\HitTheMouse.Content.pdb
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.csproj.AssemblyReference.cache
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.AssemblyInfoInputs.cache
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.AssemblyInfo.cs
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.csproj.CoreCompileInputs.cache
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.dll
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\refint\HitTheMouse.Content.dll
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\HitTheMouse.Content.pdb
+D:\Assignments\MonoGames\Jenil\HitTheMouse\HitTheMouse.Content\obj\Release\net8.0\ref\HitTheMouse.Content.dll
